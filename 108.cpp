@@ -3,6 +3,13 @@ using namespace std;
  class Sum
 {
 	public:
+	 
+	 
+	 
+	 
+	 
+	 
+	 
 	int result;
 	public:
 	Sum(int a,int b,int c)
