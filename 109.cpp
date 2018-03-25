@@ -3,6 +3,15 @@ using namespace std;
  
 int main() {
 	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	int i,j,temp,n;
 	int a[10];
 	cout<<"array size :";
