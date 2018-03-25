@@ -1,8 +1,12 @@
 #include<iostream>
+
 using namespace std;
+
 int main()
+  
 {
 string S;
+  
 int N;
 cout<<"Enter the string : "<<endl;
 cin>>S;
