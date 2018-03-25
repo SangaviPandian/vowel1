@@ -9,3 +9,7 @@ int main()
        cout<<n<<n1;
    }
 }
+
+
+
+
