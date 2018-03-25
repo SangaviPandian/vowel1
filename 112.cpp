@@ -5,6 +5,11 @@ using namespace std;
 int main()
 {
  
+ 
+ 
+ 
+ 
+ 
  int n,a[10],num,i;
  cout<<"Enter the number of elements :";
  cin>>n;
